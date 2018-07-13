@@ -1,0 +1,363 @@
+{
+  "project_info": {
+    "project_number": "807849904241",
+    "firebase_url": "https://hellopravesh-25fe3.firebaseio.com",
+    "project_id": "hellopravesh-25fe3",
+    "storage_bucket": "hellopravesh-25fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:011eac599e35c545",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.cloudjadupart4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-6e8fnin47ll1c4bnqgqk2p2nqb2ls17v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.cloudjadupart4",
+            "certificate_hash": "1319cb02c6c611ed02606f60800ac5bc0da1f7fc"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:01ed5b990042242e",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.firebasecarisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-gvc2udtrt2ucoce98h72fch1u577ttah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.firebasecarisma",
+            "certificate_hash": "39a97a48d417387cf9baaa38303336b593280980"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:61769df2e79b380d",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.firebaserealtimebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-15pk5cctcn1eko0m2mg1lah4usead79g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.firebaserealtimebase",
+            "certificate_hash": "1319cb02c6c611ed02606f60800ac5bc0da1f7fc"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:8e12b30f73093f69",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.jadupart4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-digg62obtu1ccdud7cppdmfs0bvi2lq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.jadupart4",
+            "certificate_hash": "39a97a48d417387cf9baaa38303336b593280980"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:ea3dec505ca45cb8",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-s0ie5mpgv4s5dlqip35439vacr6l7acj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.loginform",
+            "certificate_hash": "39a97a48d417387cf9baaa38303336b593280980"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:848f4f7b72624e19",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-975u9u43bmi2eq8uoboqdrsj4urdp67d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.notify",
+            "certificate_hash": "39a97a48d417387cf9baaa38303336b593280980"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:a1dbda9282b2cce2",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.trackertrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-dmvjg4v94qqn1hk09u469rq7bdjd2mnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.trackertrackingapp",
+            "certificate_hash": "1319cb02c6c611ed02606f60800ac5bc0da1f7fc"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807849904241:android:e9b327eb36c988c7",
+        "android_client_info": {
+          "package_name": "com.tahlkamovie.usertracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807849904241-eou4aac3opi1tr0bsdfl5a1k85hiieqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tahlkamovie.usertracking",
+            "certificate_hash": "1319cb02c6c611ed02606f60800ac5bc0da1f7fc"
+          }
+        },
+        {
+          "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTK7mB4w_aJnfHnaMHhe1PnZxlzEdxt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807849904241-n924adipb9uae5pmoebq51c87c7pc1sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
